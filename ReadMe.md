@@ -82,4 +82,4 @@ private readonly IConfiguration _configuration;
 * Create Azure Key Vault - https://docs.microsoft.com/en-us/azure/key-vault/general/quick-create-portal
 * App Register - https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
 
-[Link]("https://dotblogs.com.tw/ryuk/2021/06/27/150608")
+[Link](https://dotblogs.com.tw/ryuk/2021/06/27/150608)
